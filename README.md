@@ -1,7 +1,7 @@
 # x13bcd_hash
 BitcoinDiamond Python Hash Module for Stratum Pools
 
-##INSTALL
+## INSTALL
 
 python setup.py install
 
@@ -9,7 +9,7 @@ or
 
 pip install x13bcd_hash
 
-##USAGE
+## USAGE
 
 import x13bcd_hash
 
