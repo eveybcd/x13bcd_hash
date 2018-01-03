@@ -21,7 +21,7 @@ x13bcd_hash_module = Extension('x13bcd_hash',
                                include_dirs=['.', './sha3'])
 
 setup(name='x13bcd_hash',
-      version='1.0',
+      version='1.0.2',
       description='Bindings for proof of work used by x13bcd for '
                   'BitcoinDiamond',
       url='https://github.com/eveybcd/x13bcd_hash',
